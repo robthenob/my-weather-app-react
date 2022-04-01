@@ -1,0 +1,31 @@
+#searchButton {
+  border: 2px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  color: rgba(166, 226, 229, 1);
+  margin-left: 20px;
+  box-shadow: rgba(100, 100, 111, 0.5) 0px 0px 10px 0px;
+}
+#locationButton {
+  border: 2px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  color: rgba(166, 226, 229, 1);
+  margin-left: 20px;
+  box-shadow: rgba(100, 100, 111, 0.5) 0px 0px 10px 0px;
+}
+#search-bar {
+  width: 300px;
+  border: white;
+  margin-top: 33px;
+  padding: 5px 0px 5px 5px;
+  box-shadow: rgba(100, 100, 111, 0.5) 0px 0px 10px 0px;
+}

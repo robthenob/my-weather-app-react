@@ -1,0 +1,32 @@
+#degree {
+  font-size: 140px;
+  color: white;
+}
+#unit,
+#bar,
+#fahrenheitUnit {
+  font-size: 30px;
+  color: white;
+  position: relative;
+  top: -75px;
+}
+#unit {
+  padding-left: 15px;
+}
+
+ul {
+  padding-top: 25px;
+}
+
+li {
+  list-style: none;
+  display: block;
+  font-size: 20px;
+  color: white;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  text-transform: capitalize;
+}
+#km {
+  text-transform: lowercase;
+}
