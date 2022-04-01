@@ -9,13 +9,13 @@ export default function CurrentConditions() {
           <h1>
             <span id="degree">6</span>
             <span>
-              <a href="#" id="unit" class="active">
+              <a href="#0" id="unit" class="active">
                 °C
               </a>
             </span>
             <span id="bar"> | </span>
             <span>
-              <a href="#" id="fahrenheitUnit">
+              <a href="#0" id="fahrenheitUnit">
                 °F
               </a>
             </span>
